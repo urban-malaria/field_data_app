@@ -1,0 +1,62 @@
+Serial_Number,DATE,STATE,LOCAL_GOVT_AREA,Tested,Result,INTERVIEWER,Child_Name,DateOfBirth,AgeAtLastBirthday,HouseAddress,Weight,Height,HasMosquitoNet,HouseholdHeadName,MotherName,OccupationHouseholdHead,Ward,SettlementType
+1,2/3/2024,Oyo,LocalGovt1,No,Negative,Alexander Robinson,Jane,9/1/2017,6,"NO 5 KUMAPAYI STREET, IYANA AGBALA, IWO ROAD",65,140,FALSE,Grace,Eva,Teacher,,Informal
+2,2/23/2024,Oyo,LocalGovt2,,Negative,Lily Sanchez,Grace,5/3/2016,7,"NO 9 IFELODUN CRESCENT, ODO-OBA, IBADAN",95,145,FALSE,Grace,Grace,Engineer,WardA,Slum
+3,8/11/2023,,LocalGovt1,No,Negative,Jacob Thompson,Alice,6/19/2015,8,"N4/221 MOKOLA, IBADAN",40,195,FALSE,John,Ella,Teacher,WardB,Slum
+4,1/14/2024,Oyo,LocalGovt1,Yes,Positive,Ava Herndez,Frank,2/4/2020,3,"E4/229 YEMETU IDI-ODO, IBADAN",95,170,TRUE,Eva,lade,Engineer,WardA,Slum
+5,9/16/2023,Oyo,LocalGovt1,Yes,Positive,Ethan Martinez,Alice,5/26/2020,3,"HOUSE 1 BESIDE ABIOLA BUILDING, AKINTILA ROAD QUEEN CINEMA, DUGBE",100,135,TRUE,Grace,Alice,,WardB,Slum
+6,11/23/2023,Oyo,LocalGovt1,No,Positive,Matthew Allen,Bob,5/16/2023,0,"34, IYANAKAFINTA STREET, AGBOWO, IBADAN",65,175,FALSE,Alice,Alice,Doctor,WardA,
+7,9/9/2023,,LocalGovt2,,Negative,David Jackson,Eva,1/15/2021,2,"S2/200 ORANYAN, IBADAN",30,185,FALSE,Grace,Eva,Driver,WardA,Slum
+8,8/11/2023,Oyo,LocalGovt2,No,Negative,James Taylor,Charlie,10/17/2022,1,"E7/531 ODO AJE OLUSOJI, IBADAN",60,150,FALSE,Grace,Esther,Doctor,WardC,Slum
+9,11/23/2023,,LocalGovt2,No,Negative,Daniel Hill,Alice,9/6/2020,3,6 OLAOLU FARAYOLA BODIJA ,80,160,FALSE,David,Remi,Doctor,WardC,Slum
+10,12/28/2023,Oyo,LocalGovt2,,Negative,Jacob Thompson,Frank,11/19/2019,4,MW5/310 OMITOWOJU MOKOLA ,60,150,TRUE,Grace,Temilade,Doctor,WardB,Informal
+11,10/26/2023,Oyo,,No,Positive,Matthew Allen,Alice,11/19/19,5,20 OKEOPE STREET AGBOWO EXPRESS ,90,125,FALSE,David,Mide,,,
+12,10/27/2023,Oyo,LocalGovt2,No,Negative,Grace Wright,John,3/28/2013,10,W55/W OKEOYI OJE,100,195,TRUE,David,Ruth,Engineer,WardA,Slum
+13,10/27/2023,Kano,LocalGovt1,No,Positive,Emma Wilson,Bob,12/28/2013,5,16 AMINA WAY UNIVERSITY OF IBADAN ,60,180,FALSE,David,Jane,Doctor,WardC,Slum
+14,10/28/2023,Kano,,Yes,Positive,Charlotte Martin,Bob,1/26/2015,8,ILE ONI ERU BEHIND TOTAL FILLING STATION OJE,75,190,TRUE,David,Juliet,Driver,,Formal
+15,12/12/2023,Kano,LocalGovt2,Yes,Positive,James Taylor,Grace,8/13/2022,1,1 BOLA ARE STREET MOKOLA ,55,150,TRUE,Frank,Grace,Doctor,WardA,Formal
+16,11/4/2023,,LocalGovt1,Yes,Negative,Benjamin Nguyen,Bob,11/17/2017,6,10 ABIBOLA STREET OFF ADEYEMI ROAD NEW BODIJA ,95,135,TRUE,Frank,John,Engineer,WardB,Slum
+17,10/8/2023,Kano,LocalGovt1,No,Positive,Sophia Thomas,Alice,12/27/2014,9,24 AKINBODE STREET AGBOWO EXPRESS ,100,120,FALSE,Alice,Sussan,,WardA,Informal
+18,8/23/2023,Kano,,Yes,Negative,Daniel Davis,David,8/22/2014,9,3 OYEWUMI STREET AGBOWO EXPRESS ,60,155,FALSE,John,Loveth,Driver,WardB,Slum
+19,8/4/2023,Kano,LocalGovt1,Yes,Negative,Emma Wilson,Grace,6/24/2015,8,5 ABODERE STREET SANGO RAILWAY CROSSING ,80,195,TRUE,Grace,Alice,Teacher,WardB,Informal
+20,8/5/2023,Kano,LocalGovt2,Yes,Negative,Williams,Bob,6/25/2015,10,9 Fagbamila Street,80,195,TRUE,Grace,Alice,Teacher,WardB,Informal
+21,10/23/2023,Kano,,Yes,Negative,Daniel Davis,David,8/22/2014,9,3 OYEWUMI STREET AGBOWO EXPRESS ,60,155,FALSE,John,Loveth,Driver,WardB,Slum
+22,2/3/2024,Oyo,LocalGovt1,No,Negative,Alexander Robinson,Jane,9/1/2017,6,"NO 5 KUMAPAYI STREET, IYANA AGBALA, IWO ROAD",65,140,FALSE,Grace,Eva,Teacher,,Informal
+23,1/23/2024,Oyo,LocalGovt2,,Negative,Lily Sanchez,Grace,5/3/2016,7,"NO 9 IFELODUN CRESCENT, ODO-OBA, IBADAN",95,145,FALSE,Grace,Grace,Engineer,WardA,Slum
+24,8/11/2023,,LocalGovt1,No,Negative,Jacob Thompson,Alice,6/19/2015,8,"N4/221 MOKOLA, IBADAN",40,195,FALSE,John,Ella,Teacher,WardB,Slum
+25,1/14/2024,Oyo,LocalGovt1,Yes,Positive,Ava Herndez,Frank,2/4/2020,3,"E4/229 YEMETU IDI-ODO, IBADAN",95,170,TRUE,Eva,lade,Engineer,WardA,Slum
+26,9/16/2023,Oyo,LocalGovt1,Yes,Positive,Ethan Martinez,Alice,5/26/2020,3,"HOUSE 1 BESIDE ABIOLA BUILDING, AKINTILA ROAD QUEEN CINEMA, DUGBE",100,135,TRUE,Grace,Alice,,WardB,Slum
+27,11/23/2023,Oyo,LocalGovt1,No,Positive,Matthew Allen,Bob,5/16/2023,0,"34, IYANAKAFINTA STREET, AGBOWO, IBADAN",65,175,FALSE,Alice,Alice,Doctor,WardA,
+28,9/9/2023,,LocalGovt2,,Negative,David Jackson,Eva,1/15/2021,2,"S2/200 ORANYAN, IBADAN",30,185,FALSE,Grace,Eva,Driver,WardA,Slum
+29,8/11/2023,Oyo,LocalGovt2,No,Negative,James Taylor,Charlie,10/17/2022,1,"E7/531 ODO AJE OLUSOJI, IBADAN",60,150,FALSE,Grace,Esther,Doctor,WardC,Slum
+30,11/23/2023,,LocalGovt2,No,Negative,Daniel Hill,Alice,9/6/2020,3,6 OLAOLU FARAYOLA BODIJA ,80,160,FALSE,David,Remi,Doctor,WardC,Slum
+31,12/28/2023,Oyo,LocalGovt2,,Negative,Jacob Thompson,Frank,11/19/2019,4,MW5/310 OMITOWOJU MOKOLA ,60,150,TRUE,Grace,Temilade,Doctor,WardB,Informal
+32,10/26/2023,Oyo,,No,Positive,Matthew Allen,Alice,11/19/19,5,20 OKEOPE STREET AGBOWO EXPRESS ,90,125,FALSE,David,Mide,,,
+33,10/27/2023,Oyo,LocalGovt2,No,Negative,Grace Wright,John,3/28/2013,10,W55/W OKEOYI OJE,100,195,TRUE,David,Ruth,Engineer,WardA,Slum
+34,10/27/2023,Kano,LocalGovt1,No,Positive,Emma Wilson,Bob,12/28/2013,5,16 AMINA WAY UNIVERSITY OF IBADAN ,60,180,FALSE,David,Jane,Doctor,WardC,Slum
+35,10/28/2023,Kano,,Yes,Positive,Charlotte Martin,Bob,1/26/2015,8,ILE ONI ERU BEHIND TOTAL FILLING STATION OJE,75,190,TRUE,David,Juliet,Driver,,Formal
+36,12/12/2023,Kano,LocalGovt2,Yes,Positive,James Taylor,Grace,8/13/2022,1,1 BOLA ARE STREET MOKOLA ,55,150,TRUE,Frank,Grace,Doctor,WardA,Formal
+37,11/4/2023,,LocalGovt1,Yes,Negative,Benjamin Nguyen,Bob,11/17/2017,6,10 ABIBOLA STREET OFF ADEYEMI ROAD NEW BODIJA ,95,135,TRUE,Frank,John,Engineer,WardB,Slum
+38,10/8/2023,Kano,LocalGovt1,No,Positive,Sophia Thomas,Alice,12/27/2014,9,24 AKINBODE STREET AGBOWO EXPRESS ,100,120,FALSE,Alice,Sussan,,WardA,Informal
+39,8/23/2023,Kano,,Yes,Negative,Daniel Davis,David,8/22/2014,9,3 OYEWUMI STREET AGBOWO EXPRESS ,60,155,FALSE,John,Loveth,Driver,WardB,Slum
+40,8/4/2023,Kano,LocalGovt1,Yes,Negative,Emma Wilson,Grace,6/24/2015,8,5 ABODERE STREET SANGO RAILWAY CROSSING ,80,195,TRUE,Grace,Alice,Teacher,WardB,Informal
+41,8/5/2023,Kano,LocalGovt2,Yes,Negative,Williams,Bob,6/25/2015,10,9 Fagbamila Street,80,195,TRUE,Grace,Alice,Teacher,WardB,Informal
+42,1/3/2024,Oyo,LocalGovt1,No,Negative,Alexander Robinson,Jane,9/1/2017,6,"NO 5 KUMAPAYI STREET, IYANA AGBALA, IWO ROAD",65,140,FALSE,Grace,Eva,Teacher,,Informal
+43,1/23/2024,Oyo,LocalGovt2,,Negative,Lily Sanchez,Grace,5/3/2016,7,"NO 9 IFELODUN CRESCENT, ODO-OBA, IBADAN",95,145,FALSE,Grace,Grace,Engineer,WardA,Slum
+44,8/11/2023,,LocalGovt1,No,Negative,Jacob Thompson,Alice,6/19/2015,8,"N4/221 MOKOLA, IBADAN",40,195,FALSE,John,Ella,Teacher,WardB,Slum
+45,1/14/2024,Oyo,LocalGovt1,Yes,Positive,Ava Herndez,Frank,2/4/2020,3,"E4/229 YEMETU IDI-ODO, IBADAN",95,170,TRUE,Eva,lade,Engineer,WardA,Slum
+46,9/16/2023,Oyo,LocalGovt1,Yes,Positive,Ethan Martinez,Alice,5/26/2020,3,"HOUSE 1 BESIDE ABIOLA BUILDING, AKINTILA ROAD QUEEN CINEMA, DUGBE",100,135,TRUE,Grace,Alice,,WardB,Slum
+47,11/23/2023,Oyo,LocalGovt1,No,Positive,Matthew Allen,Bob,5/16/2023,0,"34, IYANAKAFINTA STREET, AGBOWO, IBADAN",65,175,FALSE,Alice,Alice,Doctor,WardA,
+48,9/9/2023,,LocalGovt2,,Negative,David Jackson,Eva,1/15/2021,2,"S2/200 ORANYAN, IBADAN",30,185,FALSE,Grace,Eva,Driver,WardA,Slum
+49,8/11/2023,Oyo,LocalGovt2,No,Negative,James Taylor,Charlie,10/17/2022,1,"E7/531 ODO AJE OLUSOJI, IBADAN",60,150,FALSE,Grace,Esther,Doctor,WardC,Slum
+50,11/23/2023,,LocalGovt2,No,Negative,Daniel Hill,Alice,9/6/2020,3,6 OLAOLU FARAYOLA BODIJA ,80,160,FALSE,David,Remi,Doctor,WardC,Slum
+51,12/28/2023,Oyo,LocalGovt2,,Negative,Jacob Thompson,Frank,11/19/2019,4,MW5/310 OMITOWOJU MOKOLA ,60,150,TRUE,Grace,Temilade,Doctor,WardB,Informal
+52,10/26/2023,Oyo,,No,Positive,Matthew Allen,Alice,11/19/19,5,20 OKEOPE STREET AGBOWO EXPRESS ,90,125,FALSE,David,Mide,,,
+53,10/27/2023,Oyo,LocalGovt2,No,Negative,Grace Wright,John,3/28/2013,10,W55/W OKEOYI OJE,100,195,TRUE,David,Ruth,Engineer,WardA,Slum
+54,10/27/2023,Kano,LocalGovt1,No,Positive,Emma Wilson,Bob,12/28/2013,5,16 AMINA WAY UNIVERSITY OF IBADAN ,60,180,FALSE,David,Jane,Doctor,WardC,Slum
+55,10/28/2023,Kano,,Yes,Positive,Charlotte Martin,Bob,1/26/2015,8,ILE ONI ERU BEHIND TOTAL FILLING STATION OJE,75,190,TRUE,David,Juliet,Driver,,Formal
+56,12/12/2023,Kano,LocalGovt2,Yes,Positive,James Taylor,Grace,8/13/2022,1,1 BOLA ARE STREET MOKOLA ,55,150,TRUE,Frank,Grace,Doctor,WardA,Formal
+57,11/4/2023,,LocalGovt1,Yes,Negative,Benjamin Nguyen,Bob,11/17/2017,6,10 ABIBOLA STREET OFF ADEYEMI ROAD NEW BODIJA ,95,135,TRUE,Frank,John,Engineer,WardB,Slum
+58,10/8/2023,Kano,LocalGovt1,No,Positive,Sophia Thomas,Alice,12/27/2014,9,24 AKINBODE STREET AGBOWO EXPRESS ,100,120,FALSE,Alice,Sussan,,WardA,Informal
+59,8/23/2023,Kano,,Yes,Negative,Daniel Davis,David,8/22/2014,9,3 OYEWUMI STREET AGBOWO EXPRESS ,60,155,FALSE,John,Loveth,Driver,WardB,Slum
+60,8/4/2023,Kano,LocalGovt1,Yes,Negative,Emma Wilson,Grace,6/24/2015,8,5 ABODERE STREET SANGO RAILWAY CROSSING ,80,195,TRUE,Grace,Alice,Teacher,WardB,Informal
+61,8/5/2023,Kano,LocalGovt2,Yes,Negative,Williams,Bob,6/25/2015,10,9 Fagbamila Street,80,195,TRUE,Grace,Alice,Teacher,WardB,Informal
