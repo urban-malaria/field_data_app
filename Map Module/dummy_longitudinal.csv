@@ -1,0 +1,6 @@
+Serial_Number,DATE,LOCAL_GOVT_AREA,Tested,Result,INTERVIEWER,Child_Name,DateOfBirth,AgeAtLastBirthday,HouseAddress,Weight,Height,HasMosquitoNet,HouseholdHeadName,MotherName,OccupationHouseholdHead,Ward,SettlementType
+3084,8/11/2023,LocalGovt2,No,Negative,James Taylor,Charlie,10/17/2022,1,"E7/531 ODO AJE OLUSOJI, IBADAN",60,150,FALSE,Grace,Esther,Doctor,WardC,Slum
+5373,1/23/2024,LocalGovt2,,Negative,Lily Sanchez,Grace,5/3/2016,7,"NO 9 IFELODUN CRESCENT, ODO-OBA, IBADAN",95,145,FALSE,Grace,Grace,Engineer,WardA,Slum
+8726,11/23/2023,LocalGovt1,No,Positive,Matthew Allen,Bob,5/16/2023,0,"34, IYANAKAFINTA STREET, AGBOWO, IBADAN",65,175,FALSE,Alice,Alice,Doctor,WardA,
+5119,1/14/2024,LocalGovt3,Yes,Positive,Ava Herndez,Frank,2/4/2020,3,"E4/229 YEMETU IDI-ODO, IBADAN",95,170,TRUE,Eva,lade,Engineer,WardA,Slum
+7822,9/16/2023,LocalGovt1,Yes,Positive,Ethan Martinez,Alice,5/26/2020,3,"HOUSE 1 BESIDE ABIOLA BUILDING, AKINTILA ROAD QUEEN CINEMA, DUGBE",100,135,TRUE,Grace,Alice,,WardB,Slum
